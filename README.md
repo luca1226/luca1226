@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @luca1226
-- 👀 I’m interested in Angular, TypeScript, JavaScript, PHP, C#
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Angular, TypeScript and JavaScript projects
-- 📫 How to reach me lu.saccone@gmail.com
+## 👋 Hi, I’m Luca
 
-<!---
-luca1226/luca1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-stack developer focused on building real-world products.
+
+---
+
+## 🚀 Projects
+
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4e212b9a-679a-45f1-a77e-1a3138e4ce3a" />AI QA Tester
+AI-powered tool that automatically detects bugs, broken user flows, and UX issues on websites.
+
+👉 https://www.ai-qa-tester.com/
+
+- Simulates real user behavior (clicks, forms, navigation)
+- Detects silent failures and broken flows
+- Generates actionable QA reports in minutes
+
+---
+
+## 🛠️ Tech I work with
+
+- Angular / TypeScript / JavaScript / Vue
+- C#
+- PHP  
+
+---
+
+## 🤝 Open to collaborate on
+
+- Frontend (Angular / Vue)
+- SaaS products
+- Developer tools
+
+---
+
+## 📫 Contact
+
+- Email: lu.saccone@gmail.com
